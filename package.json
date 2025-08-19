@@ -1,6 +1,6 @@
 {
   "name": "simple-text-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple utility library for text manipulation and formatting",
   "main": "index.js",
   "scripts": {
@@ -15,16 +15,10 @@
     "utilities",
     "manipulation"
   ],
-  "author": "Your Name <your.email@example.com>",
-  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/kpecker/simple-utils.git"
   },
-  "bugs": {
-    "url": "https://github.com/yourusername/simple-text-utils/issues"
-  },
-  "homepage": "https://github.com/yourusername/simple-text-utils#readme",
   "engines": {
     "node": ">=12.0.0"
   },
